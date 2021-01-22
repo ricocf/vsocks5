@@ -1,7 +1,7 @@
 {
-  "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
-  "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
-  "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
+  "name": "novibesonlyencryptions ;)",
+  "description": "Deploy SS with prefered encryption method.",
+  "keywords": ["V2ray", "Shadowsocks"],
   "env": {
      "ENCRYPT": {
       "description": "Encryption method, default: chacha20-ietf-poly1305, others are aes-256-cfb, rc4-md5, salsa20, chacha20-ietf etc.",
