@@ -8,7 +8,7 @@
       "value": "chacha20-ietf-poly1305"
     },
      "PASSWORD": {
-      "description": "The password of shadowsocks)",
+      "description": "The password of shadowsocks ;) you should change this",
       "value": "FJFB1PWC8R2F"
     },
 
