@@ -18,8 +18,8 @@
      }, 
 
      "V2_Path": {
-      "description": "Path path, default /connect, you can also replace connect with something else for safety, / cannot be less.",
-      "value": "/connect"
+      "description": "Path path, default /nope, you can also replace connect with something else for safety, / cannot be less.",
+      "value": "/nope"
     },
 
      "AppName": {
@@ -29,7 +29,7 @@
 
     "QR_Path": {
        "description": "QR code and configuration link path, the default qr, you can also change it, but it cannot be the same as V2_Path. If the AppName variable is no, this variable has no effect",
-       "value": "/qr"
+       "value": "/connect"
      },
 
      "ProxySite": {
