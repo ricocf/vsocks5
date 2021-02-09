@@ -1,2 +1,2 @@
 # vsocks5
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+ https://dashboard.heroku.com/new?template=https://github.com/ricocf/vsocks5
